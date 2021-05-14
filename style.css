@@ -1,0 +1,35 @@
+
+body{
+	background-color: #bdc3c7;
+}
+
+
+.contact{
+	background-color: #ecf0f1;
+	margin: 20px;
+	padding: 20px;
+}
+
+.education{
+	background-color: #7f8c8d;
+	margin: 20px;
+	padding: 20px;
+}
+
+.employment{
+	background-color: #34495e;
+	margin: 20px;
+	padding: 20px;
+	color: white;
+}
+
+.job{
+	border: 1px solid white;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+
+
